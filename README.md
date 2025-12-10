@@ -7,7 +7,7 @@ Get uBlacklist for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ubla
 To add blocklists, add URL to your subscriptions:
 
 ```
-https://raw.githubusercontent.com/KlaxKain/ublacklist_antisns/refs/heads/main/ublacklist_antisns
+https://raw.githubusercontent.com/KlaxKain/ublacklist_anti_sns/refs/heads/main/ublacklist_anti_sns
 ```
 
 ## Found a bug?
